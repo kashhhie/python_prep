@@ -21,7 +21,7 @@ A small, personal Python learning repository with example notebooks and exercise
 - Jupyter (Notebook or Lab) to run the notebooks
 
 Optional but recommended:
-- Create and use a virtual environment (`venv` or similar)
+- Create and use a virtual environment (`venv` or similar) 
 
 ## 🚀 Quick Start
 
